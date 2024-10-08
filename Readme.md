@@ -5,8 +5,6 @@ This repository contains four key Jupyter notebooks focused on Exploratory Data 
 ## Table of Contents
 1. [Files Overview](#files-overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Conclusion](#conclusion)
 
 ## Files Overview
 
