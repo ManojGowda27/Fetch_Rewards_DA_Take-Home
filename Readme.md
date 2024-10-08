@@ -10,7 +10,7 @@ This repository contains four key Jupyter notebooks focused on Exploratory Data 
 
 ## Files Overview
 
-### 1. `user_Takehome_EDA.ipynb`
+### 1. `user_Takehome_EDA.ipynb`[Code_Preview](#EDA/user_Takehome_EDA.ipynb)
 This notebook focuses on analyzing the users dataset, which includes demographic details such as birth dates, gender, and account creation dates. The key objectives of this notebook are:
 - **Data Cleaning:** Converting columns like `CREATED_DATE` and `BIRTH_DATE` to a proper datetime format.
 - **Standardization:** Gender values and language codes are mapped to a standardized format to ensure consistency.
@@ -21,7 +21,7 @@ This notebook focuses on analyzing the users dataset, which includes demographic
   
 This notebook provides insights into the user demographics and their behaviors within the platform.
 
-### 2. `transactions_Takehome_EDA.ipynb`
+### 2. `transactions_Takehome_EDA.ipynb`[Code_Preview](#EDA/transactions_Takehome_EDA.ipynb)
 The second notebook deals with the transactions data and focuses on analyzing purchasing patterns and transactional behaviors. Key steps include:
 - **Data Overview and Cleaning:** Summary of missing values and handling outliers.
 - **Data Transformations:** Formatting transaction dates and merging them with user data.
@@ -31,7 +31,7 @@ The second notebook deals with the transactions data and focuses on analyzing pu
   
 The goal of this notebook is to provide insights into where transactions are happening and if any demographic-based patterns exist.
 
-### 3. `products_Takehome_EDA.ipynb`
+### 3. `products_Takehome_EDA.ipynb`[Code_Preview](#EDA/products_Takehome_EDA.ipynb)
 This notebook analyzes the product dataset, focusing on the distribution of products across categories, brands, and manufacturers. Key analyses include:
 - **Category Distribution:** The distribution of products across different primary and secondary categories.
 - **Brand and Manufacturer Insights:**
